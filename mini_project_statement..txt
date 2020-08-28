@@ -1,0 +1,4 @@
+1)Perform Data Preparation by cleaning the data and removing null values.
+2)Identify Which genres have higher user ratings.
+3)Identify the trend of user ratings based on pricing.
+4)State your inferences.
